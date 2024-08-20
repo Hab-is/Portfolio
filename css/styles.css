@@ -161,7 +161,7 @@ body{
     flex: 1;
     display: flex;
     justify-content: center;
-    margin-left: 120px; /* Adjust this value as needed */
+    margin-left: 120px; 
 }
 
 .image-container img {
